@@ -1,0 +1,8 @@
+a = int(input("enter the first number:"))
+b = int(input("enter the second number:"))
+print("number first is", a)
+print("number second is", b)
+print("sum of 2 number is", a+b)
+c= type(a)
+print(c)
+print("sqr of 2 number is", a*a, b*b)
